@@ -147,7 +147,7 @@
 <tspan x="10" y="2314">│ │ │   │   └── amdefine@1.0.1 </tspan>
 <tspan x="10" y="2330">│ │ │   ├── esprima@1.1.1 </tspan>
 <tspan x="10" y="2346">│ │ │   └── traverse@0.6.6 </tspan>
-<tspan x="10" y="2362">│ │ ├── iconv-lite@0.4.15 </tspan>
+<tspan x="10" y="2362">│ │ ├── iconv-lite@0.4.16 </tspan>
 <tspan x="10" y="2378">│ │ ├─┬ inquirer@0.7.3 </tspan>
 <tspan x="10" y="2394">│ │ │ ├── ansi-regex@1.1.1 </tspan>
 <tspan x="10" y="2410">│ │ │ ├─┬ chalk@0.5.1 </tspan>
